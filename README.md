@@ -557,3 +557,4 @@ We’re looking for developers to improve AgenticSeek! Check out open issues or 
  > [https://github.com/antoineVIVIES](antoineVIVIES) | Taipei Time | (Often busy)
 
  > [steveh8758](https://github.com/steveh8758) | Taipei Time | (Always busy)
+alteração feita no fork
